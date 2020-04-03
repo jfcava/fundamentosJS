@@ -28,4 +28,4 @@ function cumpleanos(persona) {
   }
 }
 
-var sachaMasViejo = cumpleanos(sacha) //Ej: En este caso en la variable guardo el nuevo objero que se creo a partir de la funcion cumpleanos
+var sachaMasViejo = cumpleanos(sacha) //Ej: En este caso en la variable guardo el nuevo objeto que se creo a partir de la funcion cumpleanos

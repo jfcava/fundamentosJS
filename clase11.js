@@ -47,6 +47,8 @@ function imprimirProfesiones(persona) {
 }
 
 const MAYORIA_DE_EDAD = 18
+// Cuando una variable no se deberia modificar nuevamente en el codigo, se utiliza el CONST.
+// Y como buena practica se usa el nombre en mayusculas y separados por _.
 
 function esMayorDeEdad(persona) {
   return persona.edad >= MAYORIA_DE_EDAD
